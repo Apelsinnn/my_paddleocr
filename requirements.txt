@@ -1,0 +1,6 @@
+# PaddlePaddle GPU for CUDA 12.9
+# https://www.paddlepaddle.org.cn/packages/stable/cu129/
+
+paddleocr==3.7.0
+paddlepaddle-gpu==3.3.1
+opencv_python==5.0.0.93
